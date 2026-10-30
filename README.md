@@ -1,4 +1,4 @@
-# 🇧🇷 Olist E-commerce Data Analysis
+#  Olist E-commerce Data Analysis
 
 ## 📌 Project Overview
 
